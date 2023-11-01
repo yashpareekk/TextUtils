@@ -25,8 +25,8 @@ export default function About(props) {
         <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample" style={{backgroundColor: props.Mode ==="light"?"white":"#2C3E50",color: props.Mode ==="light"?"black":"white"}}>
           <div className="accordion-body">
             <ul>
-                <li><strong>Email:</strong> textUtils@gmail.com</li>
-                <li><strong>Phone no:</strong> 9998884456</li>
+                <li><strong>Email:</strong> thegodfatheryash@gmail.com</li>
+                <li><strong>Phone no:</strong> 6367132341</li>
             </ul>
           </div>
         </div>
